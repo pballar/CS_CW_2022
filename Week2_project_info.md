@@ -28,3 +28,12 @@ Voci une liste d'infos importantes à donner pour caracteriser votre projet et �
 Pour vous donner une idée, voici un exemple ci-dessous.
 
 Bon travail ! 
+
+
+## Criteres d'evaluation des soutenances de projets de semaine 2 :
+
+* Presentation orale
+ 	* Respect du temps
+ 	* Elocution
+ 	* Qualité des supports 
+* 	
