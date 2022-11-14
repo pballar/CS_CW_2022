@@ -39,4 +39,25 @@ Bon travail !
  	* Coherence et fluidité (fil conducteur)
 
 * Produit
- 	*Explication utilite MVP	
+ 	* Explication utilité MVP (besoin, pb, etc)
+ 	* Présentation des usages
+ 	* Fonctionnalités abouties
+ 	* Beauté du produit 
+ 	* facilité d'utilisation
+
+* Competences techniques
+	* Structuration à gros grain du code (package, modules)
+	* Structuration à petit grain du code (découpages en fonctions)
+	* Documentation - README - Docstring
+	* Gitlab (issues, commits, etc.)
+	* Test unitaires (couverture)
+	* Intelligibilité du code (commentaires, noms de fonction)
+	* Increment projet semaine 1
+* Travail en équipe 
+	* Découpage en sous-tâches
+	* Répartition du travail
+	* Cohésion du groupe
+	* Répartition de la parole
+	
+
+
