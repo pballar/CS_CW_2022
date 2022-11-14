@@ -36,4 +36,7 @@ Bon travail !
  	* Respect du temps
  	* Elocution
  	* Qualité des supports 
-* 	
+ 	* Coherence et fluidité (fil conducteur)
+
+* Produit
+ 	*Explication utilite MVP	
