@@ -19,11 +19,11 @@ Voici quelque point importants concernants le pojet Semaine 2 :
 * Un suivi sera mis en place pour nous assurer de la bonne avancée de votre projet notamment en nous appuyant sur une liste de jalons comme vous l'avez vu en semaine 1. Nous garderons aussi une assistance pour les problèmes techniques mais non continue.
 
 Voci une liste d'infos importantes à donner pour caracteriser votre projet et à saisir dans le fichier classeur dans Teams
-  * un titre provisoire
-  * un rapide descriptif et un eventuel lien vers un descriptif plus long.
-  * le nom et le contact de la personne proposant le projet
-  * le status du projet : complet ou en recherche de membres
-  * le liens vers le Git qui contiendra l'implementation du projet
+* un titre provisoire
+* un rapide descriptif et un eventuel lien vers un descriptif plus long.
+* le nom et le contact de la personne proposant le projet
+* le status du projet : complet ou en recherche de membres
+* le liens vers le Git qui contiendra l'implementation du projet
 
 Pour vous donner une idée, voici un exemple ci-dessous.
 
