@@ -9,7 +9,7 @@ Nous espérons qu'elle aura atteint son objectif : vous donner les moyens de fai
 
 ## Quelques informations concernant les projets de semaine 2 :
 
-Comme pour cette semaine, les projets se feront en groupe de 4 à 6 personnes. Il n'est **pas obligatoire de garder le même groupe que pour la semaine 1**. 
+Comme pour cette semaine, les projets se feront en groupe de 5 à 6 personnes. Il n'est **pas obligatoire de garder le même groupe que pour la semaine 1**. 
 
 Le sujet de semaine 2 est **libre**, c'est à vous de le déterminer, en fonction du thème général qui vous a été proposé. 
 Voici quelque point importants concernants le pojet Semaine 2 : Nous attirons aussi votre attention sur le fait que ce projet :
